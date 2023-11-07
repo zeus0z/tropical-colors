@@ -199,7 +199,7 @@ a {
     display: flex;
     justify-content: center;
     padding: 70px;
-    background-image: url('/assets/mountain.jpg');
+    background-image: url('/docs/assets/mountain.jpg');
 
 }
 
@@ -217,7 +217,7 @@ a {
     flex: 2;
     margin-right: 15px;
     overflow: hidden;
-    background-image: url('/assets/Captura\ de\ tela\ 2023-11-02\ 215747.png');
+    background-image: url('docs/assets/215747.png');
     background-size: cover;
 }
 
@@ -331,7 +331,7 @@ a {
     display: flex;
     justify-content: center;
     padding: 70px;
-    background-image: url('/assets/4682.jpg');
+    background-image: url('docs/assets/4682.jpg');
     background-size: cover;
     height: 400px;
     display: flex;
@@ -461,7 +461,7 @@ a {
     background-color: var(--azul);
     height: 780px;
     position: relative;
-    background-image: url('/assets/1327534.png');
+    background-image: url('docs/assets/1327534.png');
     background-position: 0 500px;
     background-repeat: no-repeat;
     padding: 1rem;
