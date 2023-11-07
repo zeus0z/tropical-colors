@@ -199,7 +199,7 @@ a {
     display: flex;
     justify-content: center;
     padding: 70px;
-    background-image: url('/docs/assets/mountain.jpg');
+    background-image: url('docs/assets/mountain.jpg');
 
 }
 
